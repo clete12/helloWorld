@@ -1,2 +1,2 @@
 # helloWorld
-My beginner project with GitHub
+Still on the beginner project with GitHub
